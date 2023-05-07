@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot (Kotlin)/task/build/
+/Simple Chatty Bot (Kotlin)/task/out/
+/Simple Chatty Bot (Kotlin)/task/out/production/classes/
